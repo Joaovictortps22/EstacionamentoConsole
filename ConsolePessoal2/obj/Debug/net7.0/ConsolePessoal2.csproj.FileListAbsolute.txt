@@ -1,0 +1,15 @@
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\bin\Debug\net7.0\ConsolePessoal2.exe
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\bin\Debug\net7.0\ConsolePessoal2.deps.json
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\bin\Debug\net7.0\ConsolePessoal2.runtimeconfig.json
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\bin\Debug\net7.0\ConsolePessoal2.dll
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\bin\Debug\net7.0\ConsolePessoal2.pdb
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.csproj.AssemblyReference.cache
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.AssemblyInfoInputs.cache
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.AssemblyInfo.cs
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.csproj.CoreCompileInputs.cache
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.dll
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\refint\ConsolePessoal2.dll
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.pdb
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ConsolePessoal2.genruntimeconfig.cache
+C:\Users\joao.v.araujo\source\repos\ConsolePessoal2\ConsolePessoal2\obj\Debug\net7.0\ref\ConsolePessoal2.dll
